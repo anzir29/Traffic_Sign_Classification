@@ -3,8 +3,9 @@ Trying to classify the traffic sign using CNN
 # Dataset 
 <img src="dataset.png">
 # Architecture
-![alt text](model_plot.png)
+<img src="model_plot.png">
 # Training Loss
-![alt text](loss.png)
+<img src="loss.png">
 # Accuracy
-![alt text](accuracy.png)
+<img src="accuracy.png">
+
